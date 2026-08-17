@@ -19,8 +19,6 @@ public class Main {
 
         System.out.println(compareLists(colorList, colorList2));
 
-        System.out.println("Testing");
-
     }
     public static void addColor(String color, List<String> listToAdd){
         listToAdd.add(color);
